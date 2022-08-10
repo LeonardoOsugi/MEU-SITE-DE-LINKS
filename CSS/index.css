@@ -1,0 +1,35 @@
+body{
+  margin: 10px;
+  border: 2px solid #f1f1f1;
+  background-image: url(https://cdn.vox-cdn.com/thumbor/LRGf_Se7nQZXLFw2_cN3W_qf_1Q=/180x0:1872x952/1600x900/cdn.vox-cdn.com/uploads/chorus_image/image/49104733/pokemon-list.0.0.png);
+  text-align: center;
+
+}
+
+h1{
+  text-align: center;
+  color:   red;
+}
+a{
+  color: black;
+}
+
+tr{
+  font-size: 50px;
+  border: 100px solid #606060;
+  padding: 10px;
+}
+
+th{
+  border: 10px solid black;
+  border-radius: 20px;
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkBuoiTKMmvHhOJ__378Q9yu2_WB5Bw5fir4zwfcJoHA4qSTL8YeOSTwlszbHAvmffU30&usqp=CAU);
+}
+
+th a:hover{
+  color: #4400ff;
+}
+
+table{
+  margin: 10px auto 10px auto;
+}
